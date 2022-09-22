@@ -47,7 +47,7 @@ Mari kita liat contoh dibawah ini:
   
 <p align=justify>Contoh diatas, terdapat sebuah fungsi untuk mengambil elemen pertama dari sebuah input array. Kita bisa melihat bahwa berapapun jumlah array yang diberikan kepada fungsi tersebut, dia akan selalu melakukan 1 hal, yaitu mengambil elemen pertama. Itu artinya <b>jumlah input yang diberikan tidak mempengaruhi waktu proses (<i>runtime</i>) dari algoritma tersebut</b>.</p>
   
-!()[]
+<p align=center><img src="https://user-images.githubusercontent.com/112606990/191747764-420fb634-8a5c-4bac-ad68-250e295ff428.png" width=500 heigth=300></p>
   
 ##### <p align=center>Constain Time</p>
   
@@ -99,7 +99,7 @@ Mari kita liat contoh dibawah ini:
   
 <p align=justify>Kita bisa melihat bahwa <b>semakin banyak jumlah input yang diberikan, maka waktu proses/runtime dari fungsi tersebut akan semakin besar</b>.</p>
   
-!()[]
+<p align=center><img src="https://user-images.githubusercontent.com/112606990/191747761-21337d64-5325-43bd-8692-e769e72c801d.png" width=500 heigth=300></p>
   
 ##### <p align=center>Linear Time</p>
   
@@ -125,7 +125,7 @@ Mari kita liat contoh dibawah ini:
     }
     let sortedArray = sort(myArray);
                                         
-!()[]
+<p align=center><img src="https://user-images.githubusercontent.com/112606990/191747768-125eb9aa-71e4-42a1-8c00-93a071a5ac74.png" width=500 heigth=300></p>
   
 ##### <p align=center>Quadratic Time</p>
   
@@ -133,6 +133,6 @@ Mari kita liat contoh dibawah ini:
   
 <p align=justify><b>Exponential Time</b> biasanya digunakan dalam situasi dimana kita tidak terlalu tahu terhadap permasalahan yang dihadapi, sehingga mengharuskan kita mencoba setiap <b>kombinasi</b> dan <b>permutasi</b> dari semua kemungkinan.</p>
   
-!()[]
+<p align=center><img src="https://user-images.githubusercontent.com/112606990/191747749-34c1fe26-e8bf-4e8e-a526-004929baa07a.png" width=500 heigth=300></p>
   
 ##### <p align=center>Exponential Time</p>
